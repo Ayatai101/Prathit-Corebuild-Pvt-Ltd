@@ -1,0 +1,12 @@
+{
+  "name": "Prathit CoreBuild | Real Estate Developers & Construction in Pune",
+  "description": "Premium real estate development and construction company in Pune specializing in redevelopment, joint development, and turn-key construction solutions. Modern, structured, and trustworthy.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real Estate Development",
+    "Construction Management",
+    "Lead Generation"
+  ]
+}
